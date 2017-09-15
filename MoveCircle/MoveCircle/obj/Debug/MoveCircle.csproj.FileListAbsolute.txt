@@ -1,0 +1,10 @@
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.7「間違いボール探しゲーム」の作成\MoveCircle\MoveCircle\bin\Debug\MoveCircle.exe.config
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.7「間違いボール探しゲーム」の作成\MoveCircle\MoveCircle\bin\Debug\MoveCircle.exe
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.7「間違いボール探しゲーム」の作成\MoveCircle\MoveCircle\bin\Debug\MoveCircle.pdb
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.7「間違いボール探しゲーム」の作成\MoveCircle\MoveCircle\obj\Debug\MoveCircle.csprojResolveAssemblyReference.cache
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.7「間違いボール探しゲーム」の作成\MoveCircle\MoveCircle\obj\Debug\MoveCircle.FormBallGame.resources
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.7「間違いボール探しゲーム」の作成\MoveCircle\MoveCircle\obj\Debug\MoveCircle.Properties.Resources.resources
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.7「間違いボール探しゲーム」の作成\MoveCircle\MoveCircle\obj\Debug\MoveCircle.csproj.GenerateResource.Cache
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.7「間違いボール探しゲーム」の作成\MoveCircle\MoveCircle\obj\Debug\MoveCircle.csproj.CoreCompileInputs.cache
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.7「間違いボール探しゲーム」の作成\MoveCircle\MoveCircle\obj\Debug\MoveCircle.exe
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.7「間違いボール探しゲーム」の作成\MoveCircle\MoveCircle\obj\Debug\MoveCircle.pdb
