@@ -1,0 +1,10 @@
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.4「間違い探しゲーム」の作成\KanjiDifferenceHunt\KanjiDifferenceHunt\bin\Debug\KanjiDifferenceHunt.exe.config
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.4「間違い探しゲーム」の作成\KanjiDifferenceHunt\KanjiDifferenceHunt\bin\Debug\KanjiDifferenceHunt.exe
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.4「間違い探しゲーム」の作成\KanjiDifferenceHunt\KanjiDifferenceHunt\bin\Debug\KanjiDifferenceHunt.pdb
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.4「間違い探しゲーム」の作成\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\KanjiDifferenceHunt.csprojResolveAssemblyReference.cache
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.4「間違い探しゲーム」の作成\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\KanjiDifferenceHunt.FormGame.resources
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.4「間違い探しゲーム」の作成\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\KanjiDifferenceHunt.Properties.Resources.resources
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.4「間違い探しゲーム」の作成\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\KanjiDifferenceHunt.csproj.GenerateResource.Cache
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.4「間違い探しゲーム」の作成\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\KanjiDifferenceHunt.csproj.CoreCompileInputs.cache
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.4「間違い探しゲーム」の作成\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\KanjiDifferenceHunt.exe
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.4「間違い探しゲーム」の作成\KanjiDifferenceHunt\KanjiDifferenceHunt\obj\Debug\KanjiDifferenceHunt.pdb

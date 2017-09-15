@@ -1,0 +1,10 @@
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.3 「今日の占い」の作成\Uranai\Uranai\bin\Debug\Uranai.exe.config
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.3 「今日の占い」の作成\Uranai\Uranai\bin\Debug\Uranai.exe
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.3 「今日の占い」の作成\Uranai\Uranai\bin\Debug\Uranai.pdb
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.3 「今日の占い」の作成\Uranai\Uranai\obj\Debug\Uranai.csprojResolveAssemblyReference.cache
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.3 「今日の占い」の作成\Uranai\Uranai\obj\Debug\Uranai.FormUranai.resources
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.3 「今日の占い」の作成\Uranai\Uranai\obj\Debug\Uranai.Properties.Resources.resources
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.3 「今日の占い」の作成\Uranai\Uranai\obj\Debug\Uranai.csproj.GenerateResource.Cache
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.3 「今日の占い」の作成\Uranai\Uranai\obj\Debug\Uranai.csproj.CoreCompileInputs.cache
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.3 「今日の占い」の作成\Uranai\Uranai\obj\Debug\Uranai.exe
+C:\Users\ise4827\Desktop\VCS2017Community_Sample\Chapter5\5.3 「今日の占い」の作成\Uranai\Uranai\obj\Debug\Uranai.pdb
